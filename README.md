@@ -7,7 +7,7 @@
 
 It uses **public data** (sanctions lists, ICIJ Offshore Leaks, Companies House, GLEIF) plus clearly flagged **synthetic** data. The design notes are in [`gotham.md`](gotham.md).
 
-![Map view with live news events, a sanctioned aircraft track and the entity inspector](docs/screenshot-map.png)
+![Globe view: a sanctioned company linked across ICIJ, Companies House and four sanctions lists, with live ship/aircraft tracks, news events and the event timeline](docs/screenshot-globe.png)
 
 ---
 
