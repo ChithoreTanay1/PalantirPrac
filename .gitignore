@@ -1,0 +1,13 @@
+backend/.venv/
+__pycache__/
+.pytest_cache/
+frontend/node_modules/
+frontend/dist/
+data/raw/
+data/staging/
+data/synthetic/
+data/*.db*
+data/server.log
+bench.db
+backend/.env
+data/ref/live_aircraft_watch.json
